@@ -1,0 +1,1 @@
+<span class="badge badge-pill badge-success">Hello</span> <?php echo $this->session->userdata('nama');?>  
