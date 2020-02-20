@@ -1,0 +1,60 @@
+.well
+{
+    padding: 35px;
+    padding-left: 30px;
+    box-shadow: 0 0 50px #666666;
+    margin: 7% auto 0;
+    width: 450px;
+    background: rgba(0.4, 0, 0, 0.4);
+}
+
+.btn1
+{
+    background-color: #FF3838;
+    color: white;
+    transition: all 0.5s;
+}
+.btn1:hover, .btn1:focus
+{
+    background-color: white;
+    color: black;
+    border: 1px solid;
+    border-color: #FF3838;
+    transition: 0.5s;
+}
+a:hover
+{
+    text-decoration: none;
+    color: red;
+}
+
+body
+{
+    background: url('http://cdn.pcwallart.com/images/nature-wallpapers-high-resolution-wallpaper-4.jpg');
+}
+
+.well-header
+{
+    background-color: #FF3838;
+}
+
+.input-group-addon
+{
+    background-color: #FF3838;
+    border-color: #FF3838;
+    color: white;
+}
+
+.btn2
+{
+    transition: all 0.5s;
+}
+
+
+.btn2:hover, .btn2:focus
+{
+    border-color: #428bca;
+    color: black;
+    background-color: white;
+    transition: 0.5s;
+}
